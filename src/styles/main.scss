@@ -97,10 +97,6 @@ form {
   border-top: 1px solid color.adjust($normal-color, $lightness: 20%);
 }
 
-.field-label {
-  text-transform: uppercase;
-}
-
  input::placeholder {
   text-transform: capitalize;
 }
